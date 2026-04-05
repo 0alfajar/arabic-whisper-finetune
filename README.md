@@ -1,4 +1,4 @@
-# Fine-tuning and evaluating Whisper models for Automatic Speech Recognition
+# Fine-tuning and evaluating Whisper models for Arabic Automatic Speech Recognition
 
 This repository contains the relevant scripts to fine-tune and evaluate Whisper models of various configurations available over huggingface 🤗.
 
